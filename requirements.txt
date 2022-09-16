@@ -680,7 +680,7 @@ urllib3==1.25.7
 urwid==2.1.0
 vecstack==0.4.0
 vowpalwabbit==8.8.1
-vtk==8.1.2
+vtk==9.0.1
 Wand==0.5.3
 wandb==0.8.32
 wasabi==0.6.0
